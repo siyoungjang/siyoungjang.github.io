@@ -36,8 +36,11 @@
         {% endif %}
 
         {%- for author in entry.author_array limit: author_array_limit -%}
+          <!-- <em>{{site.scholar.first_name}}</em> -->
           {%- assign author_is_self = false -%}
-          {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
+          {%- assign author_last_name = author.last | remove: " " | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
+          <!-- <em>{{author_last_name}}</em>
+          <em>{{site.scholar.last_name}}</em> -->
           {%- if site.scholar.last_name contains author_last_name -%}
             {%- if site.scholar.first_name contains author.first -%}
               {%- assign author_is_self = true -%}

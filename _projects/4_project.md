@@ -1,7 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Wireless computing
+description: 
+year: 2016
 img:
 importance: 3
 category: fun

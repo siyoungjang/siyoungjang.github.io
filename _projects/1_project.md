@@ -1,11 +1,21 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Edge computing
+description: 
+# img: assets/img/12.jpg # 대표 이미지 하나 넣으셈. 
+year: 2018
 importance: 1
 category: work
 ---
+Project 안에 퍼블리케이션이 담겨야할 것 같은데...
+- Edge video analytic 주제 안에, 1) SEC18 app aware edge virtualization, 2) SEC21 microservice based, 
+- Collaborative edge AI system 3) trust estimation for vehicular edge computing, 4) ICMU tracking, 5) Percom tracking
+- Energy efficient wireless communication & system, 1) PSM, 2) GPS tethering
+
+<!-- Prior to joining Bell Labs, I finished my PhD from KAIST. 
+During my PhD, I focused on designing and developing application-aware edge virtualization system. 
+Large volume of IoT data (e.g., video) is generated from the network edge and naively shipping privacy sensitive data to cloud for AI/ML service is not an efficient option for real time services. 
+Our objective is to design an edge system to support multiple application requirements by dynamically reconfiguring devices/edge in real time. -->
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

@@ -1,6 +1,12 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"SEC":
+  url: https://acm-ieee-sec.org/
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Percom":
+  url: https://www.percom.org/
+
+"ICC":
+  url: https://ieee-icc.org/
+
+"WNCN":
+  url: https://ieee-wcnc.org/
+  
