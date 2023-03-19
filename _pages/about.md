@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: 32yr_spencer.jpg
+  image: 2023_spencer.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Broers Building </p>

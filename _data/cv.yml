@@ -44,16 +44,16 @@
       institution: Nokia Bell Labs, UK
       year: 2021
       description:
-        - Topic - Collaborative edge AI for multi camera vision analytic at network edge
+        - Topic - Collaborative edge AI for multi camera system at network edge
 
 - title: Teaching experience
   type: nested_list
   contents:
-    - title: Computer Networks (CS341) - Head TA
+    - title: Computer Networks (KAIST CS341) - Head TA
       items: 2017, 2018, 2019
-    - title: Distributed Systems (CS543) - Head TA
+    - title: Distributed Systems (KAIST CS543) - Head TA
       items: 2017, 2018, 2019
-    - title: Undergraduate Research Program (URP)
+    - title: Undergraduate Research Program (KAIST URP)
       items: 2017, 2018, 2020
 
 - title: Scholarly services
