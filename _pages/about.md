@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: 2023_spencer.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Broers Building </p>
     <p>21 J.J. Thompson Avenue </p>
