@@ -31,7 +31,7 @@
   type: time_table
   contents:
     - title: Research Scientist 
-      institution: Nokia Bell Labs
+      institution: Nokia Bell Labs, UK
       year: Present
       description:
         - Topic - Embedded ML, TinyML, Collaborative edge AI
