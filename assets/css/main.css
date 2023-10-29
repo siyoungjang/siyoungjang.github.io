@@ -3006,7 +3006,7 @@ input, select, textarea {
 			width: 65%;
 			padding: 0.5em;
 			text-align: left;
-			font-size: 12pt;
+			font-size: 13pt;
 		
 		}
 	
@@ -3062,6 +3062,9 @@ input, select, textarea {
 				background-size: cover;
 
 			}
+			.projects ct{
+				font-size: 12pt;
+			}
 			.projects ct.h3{
 				text-align: left;
 			}
@@ -3075,6 +3078,9 @@ input, select, textarea {
 				max-width: 100%;
 				margin: 0 auto 2em auto;
 			}
+				.projects ct{
+					font-size: 12pt;
+				}
 				.projects ct.h3{
 					text-align: center;
 				}
