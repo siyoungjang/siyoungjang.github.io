@@ -2475,7 +2475,7 @@ input, select, textarea {
 		}
 		dl.we dt{ /* my edit */
 			display: block;
-			width: 30em; 
+			width: 20em; 
 			margin: 0;
 			clear: left;
 			float: left;
@@ -2999,12 +2999,14 @@ input, select, textarea {
 			
 		}
 			
-			
+		.projects h3{
+			font-size: 20pt;
+		}
 		.projects ct{
 			width: 65%;
 			padding: 0.5em;
 			text-align: left;
-			font-size: 14px;
+			font-size: 12pt;
 		
 		}
 	
@@ -3019,28 +3021,6 @@ input, select, textarea {
 			text-align: center;
 		}
 
-			.projects li.style1 {
-				background-color: #efa8b0;
-				text-align: left;
-			}
-
-			.projects li.style2 {
-				background-color: #c79cc8;
-			}
-
-			.projects li.style3 {
-				background-color: #a89cc8;
-			}
-
-			.projects li.style4 {
-				background-color: #9bb2e1;
-			}
-
-			.projects li.style5 {
-				background-color: #8cc9f0;
-			}
-
-			
 
 			.projects li strong, .projects li b {
 				display: block;
