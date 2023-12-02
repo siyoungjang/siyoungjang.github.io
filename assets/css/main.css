@@ -2486,6 +2486,9 @@ input, select, textarea {
 			text-align: right;
 
 		}
+		dl.alt {
+			width: 100%;
+		}
 		dl.alt dt {
 			display: block;
 			width: 8em; /* my edit*/
@@ -2496,6 +2499,7 @@ input, select, textarea {
 
 		dl.alt dd {
 			margin: 0 0 0 8em;
+			
 		}
 
 		dl.alt:after {
